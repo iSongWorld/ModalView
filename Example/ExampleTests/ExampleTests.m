@@ -1,6 +1,6 @@
 //
-//  ModalViewTests.m
-//  ModalViewTests
+//  ExampleTests.m
+//  ExampleTests
 //
 //  Created by 陈荣雄 on 15/7/3.
 //  Copyright (c) 2015年 陈荣雄. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface ModalViewTests : XCTestCase
+@interface ExampleTests : XCTestCase
 
 @end
 
-@implementation ModalViewTests
+@implementation ExampleTests
 
 - (void)setUp {
     [super setUp];

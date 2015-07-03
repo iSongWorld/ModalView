@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  ModalView
+//  Example
 //
 //  Created by 陈荣雄 on 15/7/3.
 //  Copyright (c) 2015年 陈荣雄. All rights reserved.
